@@ -1,5 +1,7 @@
 # river.rb
 class River 
   def initalize(name) 
-    @name =
+    @name = name 
+  end
+  
     
