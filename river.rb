@@ -5,5 +5,5 @@ class River
   end
 end 
 
-test_River.new(Mississippi)
+name=(Nile)
     
