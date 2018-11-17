@@ -1,2 +1,4 @@
 # river.rb
-def 
+class River 
+  def initilaze 
+    
