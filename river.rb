@@ -4,4 +4,5 @@ class River
     @name = name 
   end
 end 
+test_River.new(Mississippi)
     
