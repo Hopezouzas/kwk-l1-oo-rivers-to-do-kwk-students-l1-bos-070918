@@ -6,4 +6,4 @@ class River
 end 
 
 name=(Nile)
-    
+puts Nile
